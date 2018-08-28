@@ -1,9 +1,9 @@
-ul {
+ul li {
   font-size: 14px;
   color: color;
 }
 
-ol {
+ol li {
   font-size: 18px;
   color: color;
 }
